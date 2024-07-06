@@ -63,7 +63,8 @@
 **系統架構圖**
 ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/c57008b2-50fa-47ca-8fd0-9582d96f3a6b)  
 **個體關聯圖**  
-![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/2e86cb39-cca8-4f71-bf06-32cd25ce88f2)  
+![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/e2ea11b7-5f23-4a3f-8a13-e71b400063af)  
+
 
 ---
 
