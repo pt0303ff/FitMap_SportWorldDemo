@@ -16,11 +16,37 @@
 ## APP介紹說明
 1. 起始及登入頁面
    打開FipMap程式後會先進入到起始畫面，按下「 start」後會進入登入頁面，需要先註冊帳號才能登入。
-   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/0f617255-3445-41a6-be97-a32b173c2013)[圖]起始頁面
-   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/6924da79-f963-4826-b019-189996b7156b)[圖]登入頁面
-   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/672d34d7-ab63-45ba-bfda-16c14d152283)[圖]註冊頁面  
+   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/0f617255-3445-41a6-be97-a32b173c2013)
+   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/6924da79-f963-4826-b019-189996b7156b)
+   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/672d34d7-ab63-45ba-bfda-16c14d152283)  
 
-2. 
+2. 首頁
+   1. 使用者能透過每日登入簽到來賺取積分，未來倘若有跟健身品牌或其他廠商合作可以使用積分來換取商品 
+   2. 每日的文章推薦可以讓使用者獲得專業、可靠的健身相關知識 
+   3. 右上角設定可以進入個人資料頁面去修改資料、報修申請、登出 
+   4. 左上角的SOS按鈕可以在發生緊急情況時能直接撥打求救電話 
+   5. 下面功能列可以自由切換到其他功能的頁面
+   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/d42c6be7-8251-4a7c-a98d-9fc83d7c7d57)
+
+3. 預約系統
+   點擊預約後輸入個人資料及選擇時間後送出即可完成器材的預約。  
+   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/acacc308-f6de-46b0-a70b-bedc53959feb)
+   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/3bf7834c-f412-4161-9d6e-48f25ac75486)
+
+4. 飛輪互動地圖
+   當使用者在騎乘飛輪前可以選擇想要騎乘的路線，點選後即可開始騎乘，地圖上的虛擬人物將會依照使用者的騎乘速度去做移動。
+   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/d598ea98-f358-4ffb-ad51-e0e711497c34)
+   ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/0e8a6bcf-a8e9-4248-8efe-f971bf53bd70)
+
+5. 菜單設定頁面
+   
+   
+
+
+
+
+ 
+
 
 
 
