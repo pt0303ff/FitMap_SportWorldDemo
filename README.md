@@ -14,7 +14,7 @@
 ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/d7842aa8-1330-4c4f-9472-05ddd9b79022)
 ---
 ## APP介紹說明
-1. 起始及登入頁面
+ ### 1. 起始及登入頁面  
    打開FipMap程式後會先進入到起始畫面，按下「 start」後會進入登入頁面，需要先註冊帳號才能登入。
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/0f617255-3445-41a6-be97-a32b173c2013)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/6924da79-f963-4826-b019-189996b7156b)
