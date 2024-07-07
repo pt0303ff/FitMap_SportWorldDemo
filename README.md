@@ -28,16 +28,19 @@
 
 ### 3. 預約系統  
    點擊預約後輸入個人資料及選擇時間後送出即可完成器材的預約。  
+     
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/acacc308-f6de-46b0-a70b-bedc53959feb)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/3bf7834c-f412-4161-9d6e-48f25ac75486)  
 
 ### 4. 飛輪互動地圖  
-   當使用者在騎乘飛輪前可以選擇想要騎乘的路線，點選後即可開始騎乘，地圖上的虛擬人物將會依照使用者的騎乘速度去做移動。  
+   當使用者在騎乘飛輪前可以選擇想要騎乘的路線，點選後即可開始騎乘，地圖上的虛擬人物將會依照使用者的騎乘速度去做移動。
+     
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/d598ea98-f358-4ffb-ad51-e0e711497c34)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/0e8a6bcf-a8e9-4248-8efe-f971bf53bd70)  
 
 ### 5. 菜單設定頁面  
    在菜單頁面中選擇欲訓練的部位，可將健身菜單做任意的調整，同時，當點擊編輯菜單後，在該頁面中亦可以勾選想刪除的動作執行刪除。  
+     
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/019e8cc0-1565-450e-b4e4-f692e075488f)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/fa729e62-efe3-4f7c-bbe7-849b9e89172c)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/f681dfa3-7eae-40f3-af9e-8467e2ed96dd)
@@ -45,6 +48,7 @@
 
 ### 6. 文章推薦頁面  
    分成飲食類、健身類及替代運動方面的文章可以讓使用者選擇並參考，其中替代運動頁面點進去後，依照不同部位及彈力繩運動做分類，點選後在該頁面中有相關的內容可供閱讀參考。  
+     
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/40316fa3-3f01-49f1-9ce2-80a6a074d9c0)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/2ad181da-fbb2-4065-8a40-291b355b0975)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/8d95b1ef-f879-4283-b88f-55e7c9625323)
@@ -52,6 +56,7 @@
 
 ### 7. 設定頁面  
    在設定頁面中，可以選擇修改個人資料或申請器材報修，點擊後填完資料按更新或送出即可完成。  
+     
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/68ed72ae-a3ce-4d70-b2fc-51b73e830c52)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/d3e70d63-5784-4e83-96df-f895837c3486)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/6a00e4ad-aec0-4ebe-aa6f-eb5e6ad36318)  
@@ -59,8 +64,10 @@
    ---
 ## 系統架構  
 **系統架構圖**  
+  
 ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/c57008b2-50fa-47ca-8fd0-9582d96f3a6b)    
 **個體關聯圖**  
+  
 ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/e2ea11b7-5f23-4a3f-8a13-e71b400063af)  
 
 
