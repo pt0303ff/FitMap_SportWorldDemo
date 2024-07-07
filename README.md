@@ -12,6 +12,7 @@
 ## APP介紹說明
  ### 1. 起始及登入頁面  
    打開FipMap程式後會先進入到起始畫面，按下「 start」後會進入登入頁面，需要先註冊帳號才能登入。  
+     
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/0f617255-3445-41a6-be97-a32b173c2013)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/6924da79-f963-4826-b019-189996b7156b)
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/672d34d7-ab63-45ba-bfda-16c14d152283)  
@@ -21,7 +22,8 @@
    2. 每日的文章推薦可以讓使用者獲得專業、可靠的健身相關知識 
    3. 右上角設定可以進入個人資料頁面去修改資料、報修申請、登出 
    4. 左上角的SOS按鈕可以在發生緊急情況時能直接撥打求救電話 
-   5. 下面功能列可以自由切換到其他功能的頁面  
+   5. 下面功能列可以自由切換到其他功能的頁面
+      
    ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/d42c6be7-8251-4a7c-a98d-9fc83d7c7d57)  
 
 ### 3. 預約系統  
