@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".homepage.Setting">
+
+    <!-- title設定個人資料 -->
+    <LinearLayout
+        android:layout_width="410dp"
+        android:layout_height="65dp"
+        android:background="#D4B6FF"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+        <TextView
+            android:id="@+id/ReversationSystem2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="個人資料"
+            android:textAlignment="center"
+            android:textSize="34sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        tools:ignore="Suspicious0dp" />
+    <!-- 姓名 -->
+
+    <LinearLayout
+        android:layout_width="410dp"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="96dp"
+            android:layout_height="match_parent"
+            android:text="名稱"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="214dp"
+            android:layout_height="48dp"
+            android:ems="10"
+            android:hint="Username"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="410dp"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="96dp"
+            android:layout_height="match_parent"
+            android:text="密碼"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="214dp"
+            android:layout_height="48dp"
+            android:ems="10"
+            android:hint="＊＊＊＊＊＊"
+            android:inputType="textPassword" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="410dp"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="96dp"
+            android:layout_height="match_parent"
+            android:text="信箱"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="214dp"
+            android:layout_height="48dp"
+            android:ems="10"
+            android:hint="123@mail.com"
+            android:inputType="text|textWebEmailAddress" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <!-- 信箱 -->
+
+    <!-- 密碼 -->
+
+    <!-- 手機號碼 -->
+
+    <LinearLayout
+        android:layout_width="410dp"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="手機號碼"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="214dp"
+            android:layout_height="48dp"
+            android:ems="10"
+            android:inputType="phone"
+            android:hint="09xx-xxx-xxx" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/UpdateButton"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="更新" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        tools:context=".homepage.Setting">
+
+        <ImageView
+            android:id="@+id/btn_reservation"
+            android:layout_width="82dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            app:srcCompat="@drawable/reservation" />
+
+        <ImageView
+            android:id="@+id/btn_run"
+            android:layout_width="82dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            app:srcCompat="@drawable/run" />
+
+        <ImageView
+            android:id="@+id/btn_home"
+            android:layout_width="82dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            app:srcCompat="@drawable/home" />
+
+        <ImageView
+            android:id="@+id/btn_training"
+            android:layout_width="82dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            app:srcCompat="@drawable/hammer" />
+
+        <ImageView
+            android:id="@+id/btn_article"
+            android:layout_width="82dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            app:srcCompat="@drawable/article" />
+
+    </LinearLayout>
+
+</LinearLayout>

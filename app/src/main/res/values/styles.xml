@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CheckedInDate">
+        <item name="android:background">@drawable/circle_red</item>
+    </style>
+
+    <style name="DefaultDate">
+        <item name="android:background">@drawable/circle_blue</item>
+    </style>
+
+
+</resources>
