@@ -1,5 +1,6 @@
 # FitMap_SportWorldDemo
 ![image](https://github.com/pt0303ff/FitMap_SportWorldDemo/assets/85691121/e33f3844-c28a-45fb-8402-512bcba931c8)
+
 FitMap 以 Java 開發，並串接 Arduino 紅外線感測器來偵測飛輪的即時騎乘速度。使用者在運動過程中，可透過虛擬角色於 Google Map 模擬地圖上看到自身位置與移動狀態，同步掌握運動進度並提升沉浸感。系統同時提供運動菜單自由設定、健康知識文章瀏覽，以及健身房器材預約等功能，讓運動不再只是單一訓練，而是一個更完整且具互動性的運動體驗。
 ## APP功能簡介
 1. 可在騎乘飛輪時同步模擬在地圖上即時移動
